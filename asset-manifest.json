@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Budget-Calculator/static/css/main.508cb976.chunk.css",
+    "main.js": "/Budget-Calculator/static/js/main.4d313c19.chunk.js",
+    "main.js.map": "/Budget-Calculator/static/js/main.4d313c19.chunk.js.map",
+    "runtime-main.js": "/Budget-Calculator/static/js/runtime-main.76e0d9c0.js",
+    "runtime-main.js.map": "/Budget-Calculator/static/js/runtime-main.76e0d9c0.js.map",
+    "static/js/2.e4de45fb.chunk.js": "/Budget-Calculator/static/js/2.e4de45fb.chunk.js",
+    "static/js/2.e4de45fb.chunk.js.map": "/Budget-Calculator/static/js/2.e4de45fb.chunk.js.map",
+    "index.html": "/Budget-Calculator/index.html",
+    "precache-manifest.70673649f3a47b6f0e0ddc10f2e7a159.js": "/Budget-Calculator/precache-manifest.70673649f3a47b6f0e0ddc10f2e7a159.js",
+    "service-worker.js": "/Budget-Calculator/service-worker.js",
+    "static/css/main.508cb976.chunk.css.map": "/Budget-Calculator/static/css/main.508cb976.chunk.css.map",
+    "static/js/2.e4de45fb.chunk.js.LICENSE.txt": "/Budget-Calculator/static/js/2.e4de45fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e0d9c0.js",
+    "static/js/2.e4de45fb.chunk.js",
+    "static/css/main.508cb976.chunk.css",
+    "static/js/main.4d313c19.chunk.js"
+  ]
+}
